@@ -38,12 +38,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AdamHendersonAquaQ/reactTraining1.git"
+    "url": "git+https://github.com/AdamHendersonAquaQ/reactPractical.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AdamHendersonAquaQ/reactTraining1/issues"
+    "url": "https://github.com/AdamHendersonAquaQ/reactPractical/issues"
   },
-  "homepage": "https://github.com/AdamHendersonAquaQ/reactTraining1#readme"
+  "homepage": "https://github.com/AdamHendersonAquaQ/reactPractical#readme"
 }
